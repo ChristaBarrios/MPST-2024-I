@@ -162,3 +162,5 @@ cython_debug/
 .DS_Store
 
 .idea/
+
+TEMA-3/UCI HAR Dataset/
